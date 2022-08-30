@@ -1,3 +1,3 @@
 # ticariOtomasyonum
-Kullanıcı Adı :Admin
+Kullanıcı Adı :Admin,
 Parola : 1234
